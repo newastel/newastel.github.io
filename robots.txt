@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://newastel.github.io/sitemap.html.gz
+Sitemap: https://newastel.github.io/app/sitemap.html.gz
+Sitemap: https://newastel.github.io/assets/sitemap.html.gz
+Sitemap: https://newastel.github.io/css/sitemap.html.gz
+Sitemap: https://newastel.github.io/includes/sitemap.html.gz
+Sitemap: https://newastel.github.io/item/sitemap.html.gz
+Sitemap: https://newastel.github.io/src/sitemap.html.gz
